@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello Baby GCSW</h1>
-    <h1>Hello Pluton</h1>
+    <h1>Hello Kitty</h1>
     <h1>New user Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
